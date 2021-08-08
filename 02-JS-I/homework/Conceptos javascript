@@ -1,17 +1,19 @@
 Definicion de conceptos:
-  * Variables
-    Es un espacio en memoria que permite guardar diferentes datos como palabras, numeros, simbolos
+  	* Variables
+    		Es un espacio en memoria que permite guardar diferentes datos como palabras, numeros, simbolos
   
 	* Strings 
-    Es un conjunto de letras o palabras que se colocan entre dos comillas " palabra "
+    		Es un conjunto de letras o palabras que se colocan entre dos comillas " palabra "
     
 	* Funciones (argumentos, 'return')
-    Una funcion agrupa una o varias instrucciones que se repiten muchas veces. Estas funciones pueden tener o no argumentos, 
-    donde los argumentos son aquella valores que se necesitaran dentro de la funcion para llevar acabo alguna instruccion.
-    El return nos permite devolver los valores o resultados obtenidos dentro de las funciones.
-    
+	        Una funcion agrupa una o varias instrucciones que se repiten muchas veces. Estas funciones pueden tener o no argumentos, 
+	        donde los argumentos son aquella valores que se necesitaran dentro de la funcion para llevar acabo alguna instruccion.
+	        El return nos permite devolver los valores o resultados obtenidos dentro de las funciones.
+
 	* Declaraciones `if`
-    if que en español significa SI nos permite comparar entre un valor u otro valor 
-    
+    		if que en español significa SI nos permite comparar entre un valor u otro valor mediante operadores de comparacion que son
+		menor a , mayor a, igual a, diferente a, etc.
     
 	* Valores booleanos (`true`, `false`)
+		Son dos valores que representa verdadero o falso.
+		
