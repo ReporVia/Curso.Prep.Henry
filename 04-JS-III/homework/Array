@@ -1,0 +1,8 @@
+Un array es una variable que nos permite guardar muchos valores del mismo tipo de los cuales se requiere indicar 
+cuantos espacios se necesitaran.
+Example:
+Imaginemos que tenemos un mueble al que le llamaremos miguardaropa y queremos tener 4 cajones (que representaran 
+el numero de espacios disponibles para guardar nuestra ropa) entonces en javascript  se representaria como: 
+
+var miguardaropa= new Array[4];
+
